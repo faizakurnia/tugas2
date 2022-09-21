@@ -86,7 +86,7 @@ class _MyHomePageState extends State<MyHomePage> {
           child: Column(
             children: [
               Container(
-                height: 200.0,
+                
                 width: MediaQuery.of(context).size.width,
                 padding: const EdgeInsets.all(0.0),
                 child: Image.asset(
